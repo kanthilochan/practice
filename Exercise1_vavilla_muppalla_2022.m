@@ -2,8 +2,8 @@
                           % Excercise 1 %
                    % Precise Point Positioning %
                    % Advanced concepts of Positioning and Navigation %
-                   % Vavilla Sai Viswanath (10027362) %
-                   % Kanthi Lochan Muppalla (10027249) % 
+                   % Vavilla Sai Viswanath %
+                   % Kanthi Lochan Muppalla % 
 %%
 clc;
 clear;
