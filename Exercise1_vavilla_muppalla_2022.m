@@ -3,7 +3,7 @@
                    % Precise Point Positioning %
                    % Advanced concepts of Positioning and Navigation %
                    % Vavilla Sai Viswanath (10027362) %
-                   % Kanthi Lochan Muppalla (10027249) % 
+                   % Kanthi Lochan Muppalla (10027249) 
 %%
 clc;
 clear;
@@ -11,7 +11,7 @@ clear;
 %load 'Exercise11.mat'
 load 'ACPN_PPP_data.mat'
 %%
-rec = [3800689.4257 882077.6724 5028791.5720];
+
 XYZ = zeros(480,3);
 for i = 1:480
     XYZ(i,:) = rec;
